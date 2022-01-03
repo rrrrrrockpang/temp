@@ -1,1 +1,0 @@
-{"variables":[{"name":"a","data type":"ratio"},{"name":"cc","data type":"nominal","categories":["az","vv"]}],"study_design":{"study type":"experiment","independent variables":["cc"],"dependent variables":["a"]},"hypothesis":[[["cc","a"],["cc: az > vv"]]]}
